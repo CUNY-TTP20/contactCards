@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/contactCards%20/static/css/main.7a8eb324.chunk.css",
-    "main.js": "/contactCards%20/static/js/main.da8bb05a.chunk.js",
-    "main.js.map": "/contactCards%20/static/js/main.da8bb05a.chunk.js.map",
-    "runtime-main.js": "/contactCards%20/static/js/runtime-main.10c9df59.js",
-    "runtime-main.js.map": "/contactCards%20/static/js/runtime-main.10c9df59.js.map",
-    "static/js/2.05095c49.chunk.js": "/contactCards%20/static/js/2.05095c49.chunk.js",
-    "static/js/2.05095c49.chunk.js.map": "/contactCards%20/static/js/2.05095c49.chunk.js.map",
-    "index.html": "/contactCards%20/index.html",
-    "precache-manifest.077b668dfe87f6be486422a132e143dc.js": "/contactCards%20/precache-manifest.077b668dfe87f6be486422a132e143dc.js",
-    "service-worker.js": "/contactCards%20/service-worker.js",
-    "static/css/main.7a8eb324.chunk.css.map": "/contactCards%20/static/css/main.7a8eb324.chunk.css.map",
-    "static/js/2.05095c49.chunk.js.LICENSE.txt": "/contactCards%20/static/js/2.05095c49.chunk.js.LICENSE.txt"
+    "main.css": "/contactCards/static/css/main.7a8eb324.chunk.css",
+    "main.js": "/contactCards/static/js/main.ea42cd3b.chunk.js",
+    "main.js.map": "/contactCards/static/js/main.ea42cd3b.chunk.js.map",
+    "runtime-main.js": "/contactCards/static/js/runtime-main.a658a74b.js",
+    "runtime-main.js.map": "/contactCards/static/js/runtime-main.a658a74b.js.map",
+    "static/js/2.05095c49.chunk.js": "/contactCards/static/js/2.05095c49.chunk.js",
+    "static/js/2.05095c49.chunk.js.map": "/contactCards/static/js/2.05095c49.chunk.js.map",
+    "index.html": "/contactCards/index.html",
+    "precache-manifest.8e514edc61ce547d7568e39798c6f1d6.js": "/contactCards/precache-manifest.8e514edc61ce547d7568e39798c6f1d6.js",
+    "service-worker.js": "/contactCards/service-worker.js",
+    "static/css/main.7a8eb324.chunk.css.map": "/contactCards/static/css/main.7a8eb324.chunk.css.map",
+    "static/js/2.05095c49.chunk.js.LICENSE.txt": "/contactCards/static/js/2.05095c49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.10c9df59.js",
+    "static/js/runtime-main.a658a74b.js",
     "static/js/2.05095c49.chunk.js",
     "static/css/main.7a8eb324.chunk.css",
-    "static/js/main.da8bb05a.chunk.js"
+    "static/js/main.ea42cd3b.chunk.js"
   ]
 }
